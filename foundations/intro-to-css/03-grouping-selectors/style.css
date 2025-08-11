@@ -1,0 +1,11 @@
+.main, .branch{
+    font-size: 28px;
+    font-family: 'Times New Roman','Helvetica', sans-serif;
+}
+.main{
+    background-color: black;
+    color:white;
+}
+.branch{
+    background-color: yellow;
+}
